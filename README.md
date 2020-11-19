@@ -7,4 +7,4 @@
 
 From what I understand, our friend /u/mnlynam is needed to create some sort of onchange event on the select drop down that unchecks a box related to that same value in some list (the same that is getting the values for the drop down)
 
-So first, I'm gonna make an example sheet. 
+So first, I'm gonna make an [example sheet.](https://docs.google.com/spreadsheets/d/1LPG1lb4bdh_-DucQN_1r9A2y4yWceDnrso5B6xDgFYw/edit?usp=sharing)
