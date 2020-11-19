@@ -35,6 +35,8 @@ function onEdit(e) {
 
   // then we get a reference to the range with the source values
   // and run the .getValues() method to return an array we can iterate over
+
+  let sourceValues = sheet.getRange('C3:C10').getValues();
   
 
   // we'll keep a counter to keep track of how far down the list until we find
