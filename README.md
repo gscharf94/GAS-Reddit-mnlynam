@@ -16,7 +16,7 @@ We have
 * A range from B2:C10 with checkmarks and southern state names.
 * A drop down selection on E3 where the possible values come from the previous range
 
-For this, we should use the ```onEdit(e)``` function which runs everytime somebody edits a value in the spreadsheet. Conveniently for this purpose, the variable ```e``` is passed automatically into this function as an input. This object has a few useful attributes, the most relevant being ```oldValue``` which will be the value of the cell before the edit. 
+For this, we should use the ```onEdit(e)``` function which runs everytime somebody edits a value in the spreadsheet. Conveniently for this purpose, the variable ```e``` (stands for event) is passed automatically into this function as an input. This object has a few useful attributes, the most relevant being ```oldValue``` which will be the value of the cell before the edit. 
 
 This means we just need to..
 
