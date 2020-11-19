@@ -77,10 +77,10 @@ function onEdit(e) {
 
 So now we double check if it's working correctly....
 
-[Image2](/images/2.png)
+![Image2](/images/2.png)
 
 
-[Image3](/images/3.png)
+![Image3](/images/3.png)
 
 
 
