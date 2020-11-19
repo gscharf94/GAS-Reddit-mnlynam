@@ -28,7 +28,7 @@ So let's begin writing our ```onEdit(e)``` function
 
 ```javascript
 function onEdit(e) {
-    // we begin by getting a reference to the current spreadsheet & sheet
+  // we begin by getting a reference to the current spreadsheet & sheet
 
   let ss = SpreadsheetApp.getActiveSpreadsheet();
   let sheet = ss.getActiveSheet();
