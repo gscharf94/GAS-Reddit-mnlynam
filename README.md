@@ -55,7 +55,7 @@ function onEdit(e) {
     // ['State B'],
   //  ]
   // so to grab that value, we need to access the first element of the array
-  // also the only one but that's why we need to do row[0] in our if statement
+  // which is why we do row[0]
 
   for (const row of sourceValues) {
     if (row[0] == e.oldValue) {
