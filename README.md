@@ -54,7 +54,7 @@ function onEdit(e) {
     // ['State A'],
     // ['State B'],
   //  ]
-  // So to compare two values, we need to access the first element in the row array
+  // so to grab that value, we need to access the first element of the array
   // also the only one but that's why we need to do row[0] in our if statement
 
   for (const row of sourceValues) {
